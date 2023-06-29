@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BaiThiNVH.Models;
 
+
 namespace BaiThiNVH.Controllers
 {
     public class NVHCau3Controller : Controller

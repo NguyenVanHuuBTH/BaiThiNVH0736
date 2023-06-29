@@ -15,4 +15,6 @@ public class NVHCau3
     public string? DiaChi { get; set; }
 
     
+
+    
 }
