@@ -24,6 +24,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/Admin/BaiThiNVH/BaiThiNVH/Views/NVHCau3/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlZIQ2F1M1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Admin/BaiThiNVH/BaiThiNVH/Views/NVHCau3/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlZIQ2F1M1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Admin/BaiThiNVH/BaiThiNVH/Views/NVHCau3/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlZIQ2F1M1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Admin/BaiThiNVH/BaiThiNVH/Views/NVHCau3/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlZIQ2F1M1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Admin/BaiThiNVH/BaiThiNVH/Views/NVHCau3/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlZIQ2F1M1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/Admin/BaiThiNVH/BaiThiNVH/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
